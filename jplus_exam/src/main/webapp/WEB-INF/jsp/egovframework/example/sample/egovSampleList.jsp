@@ -101,7 +101,7 @@
     
 	    //onload
 	    $(document).ready(function () {
-	    	$("#p1").text("테스트입니다.test222");
+	    	$("#p1").text("11111");
 	    	
 /* 	    	var obj_111 = {
 	    			
